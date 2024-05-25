@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WJDSXoY0UzY1j8OtQngL3UYMusNmo1AOKbRmqfZPKzpLWFNHznA3hnLp/9rQje7Ofub9yVj9QdVE3rjXQkOKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agawl\\source\\repos\\KalkulatorUlamki\\KalkulatorUlamki\\KalkulatorUlamki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agawl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
